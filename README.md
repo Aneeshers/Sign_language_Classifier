@@ -19,7 +19,7 @@
 <p><strong>make sure the download is in .zip format</strong></p>
 </li>
 <li>
-<p>Upload it to <a href="https://bashupload.com/">bashupload</a></p>
+<p>Upload it (make sure its .zip) to <a href="https://bashupload.com/">bashupload</a></p>
 </li>
 <li>
 <p>Get your basupload url i.e “<a href="https://bashupload.com/mZtDh/oNrS-.zip">https://bashupload.com/mZtDh/oNrS-.zip</a>”</p>
